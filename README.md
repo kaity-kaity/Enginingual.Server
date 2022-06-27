@@ -55,4 +55,3 @@ docker-compose -f docker-compose.ssl.yml up
 ( https-portal|[services.d] done. みたいなのが出るまで待機, 証明書発行の時間がかかります)
 ``` 
  
-あとはdev.enginingal.comにアクセスすればできるはず... 
